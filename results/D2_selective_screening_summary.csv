@@ -1,0 +1,7 @@
+candidate,reject_frac,flat_mean,candidate_mean,delta_flat_minus_candidate,relative_reduction_pct,improved_datasets,worsened_datasets,wilcoxon_p_two_sided,decision
+threshold_cumul,0.1,0.031737,0.024424,0.007314,23.045656489271195,22,16,0.014539,GO
+threshold_cumul,0.2,0.029521,0.023755,0.005766,19.53185867687409,23,14,0.005634,GO
+threshold_cumul,0.3,0.0276,0.023344,0.004256,15.420289855072463,18,17,0.071592,directional
+rankcode_cumul,0.1,0.031737,0.027842,0.003896,12.275892491413808,22,16,0.144984,STOP
+rankcode_cumul,0.2,0.029521,0.027275,0.002246,7.608143355577386,18,18,0.387543,STOP
+rankcode_cumul,0.3,0.0276,0.026967,0.000633,2.2934782608695654,14,20,0.777873,STOP

@@ -1,0 +1,2 @@
+shots,comparison,n_datasets,flat_SMR,rankcode_SMR,mean_dSMR,rel_reduction_pct,wilcoxon_p,mean_ci_lo,mean_ci_hi
+2,TabPFN_flat vs TabPFN_RankCode,46,0.12863616079369566,0.07246991683913044,0.05616624395456522,43.66287333827043,5.929539950622086e-09,0.04335509430241304,0.07062234288589674

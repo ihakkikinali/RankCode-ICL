@@ -1,0 +1,15 @@
+model,mean_rank
+TabPFN_flat,4.0
+TabICL_flat,4.423913043478261
+TabPFN_threshold_boundary,4.706521739130435
+TabICL_RankCode,5.141304347826087
+TabPFN_RankCode,5.728260869565218
+TabPFN_vanilla_threshold,6.75
+LGBM_cumulative,7.326086956521739
+TabPFN_threshold_repair,7.445652173913044
+XGB_cumulative,7.489130434782608
+CatBoost_multiclass,9.304347826086957
+CORAL,10.478260869565217
+OrdinalLogistic,10.478260869565217
+XGB_multiclass,10.728260869565217
+LGBM_multiclass,11.0

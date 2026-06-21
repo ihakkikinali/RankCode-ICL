@@ -1,0 +1,11 @@
+{
+  "analysis": "D2 selective-screening audit from completed qvec_main_clean_final.jsonl",
+  "input_clean_qvec": "qvec_main_clean_final.jsonl (not redistributed; 1.997 GB after deduplication)",
+  "total_unique_rows": 5479020,
+  "completed_jobs": "4140/4140",
+  "complete_split_pairs": "1380/1380",
+  "baseline_for_gate": "flat_margin",
+  "main_positive_result": "threshold_cumul improves severe-misranking screening at rejection fractions 0.10 and 0.20 with two-sided Wilcoxon p<0.05",
+  "rankcode_screening_result": "rankcode_cumul is directional but not significant; not claimed as the screening contribution",
+  "created_for_repo": "derived summary only; raw qvec can be regenerated using qvec_tools scripts"
+}

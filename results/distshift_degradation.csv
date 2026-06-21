@@ -1,0 +1,3 @@
+comparison,n_datasets,flat_degradation,rankcode_degradation,wilcoxon_p
+TabICL_flat vs TabICL_RankCode,46,0.008307554847391301,0.005282580060869557,0.312382294849603
+TabPFN_flat vs TabPFN_RankCode,46,0.008019645814347822,0.005370917121910118,0.27109852719742844
